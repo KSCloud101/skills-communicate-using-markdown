@@ -6,7 +6,9 @@
 # <h6> Yaktocat <h6>
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
